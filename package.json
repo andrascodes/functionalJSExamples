@@ -1,0 +1,17 @@
+{
+  "name": "functional-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_box.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "data.task": "^3.1.1",
+    "futurize": "^1.2.0",
+    "immutable": "^3.8.1",
+    "immutable-ext": "^1.0.8"
+  }
+}
